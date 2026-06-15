@@ -46,3 +46,17 @@ Validation Performed
 * Schema Validation
 * Environment Variable Validation
 * Content-Type Validation
+
+* ## Test Results
+
+- Total Tests: 22
+- Passed: 22
+- Failed: 0
+
+## Validations Implemented
+
+- Status Code Validation
+- Response Time Validation
+- Content-Type Validation
+- Schema Validation
+- Environment Variable Validation
